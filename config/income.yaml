@@ -8,8 +8,8 @@ shallow_architecture: false        # If True, we use shallow encoder/decoder arc
 # Architecture-related params
 # The dimension of input features is added automatically, so it does not need to be defined here.
 dims:                             # Autoencoder architecture - This is for Encoder - Decoder is symmetric to Encoder.
-  - 784                           # Hidden. 
-  - 784
+  - 1024                          # Hidden. 
+  - 1024
 
 isBatchNorm: false                # Set True to use BatchNorm layer
 isDropout: false                  # Set True to use Dropout layer
