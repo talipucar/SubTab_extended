@@ -1,7 +1,7 @@
 
 ### Summary:
 
-**Please note that BlogFeedback data is attached as zip file in the release due to its file size. So please check out the release.**
+**Please note that BlogFeedback data is attached as a zip file in the release due to its file size. So please check out the release.**
 
 The data originates from blog posts, and is originally used for regression task of
 predicting the number of comments in the upcoming 24 hours. In this work, it is used for a binary classification task of predicting whether there is a comment for a post or not.There are 280 integer and real valued features, and separate training and test datasets are provided.
