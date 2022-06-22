@@ -21,7 +21,7 @@ results/*
 data/*
 !data/mnist
 !data/income
-#!data/blog
+!data/blog/README.md
 
 # Ignore tests to keep the repo clean
 tests/*
