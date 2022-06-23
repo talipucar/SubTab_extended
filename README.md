@@ -1,7 +1,9 @@
 # SubTab: 
 ##### Author: Talip Ucar (ucabtuc@gmail.com)
 
-The official implementation of the paper, 
+The unofficial implementation of the paper. 
+
+**Note:** <span style="color:red">This repo includes codes and pre-processed data to reproduce the results for Adult Income and BlogFeedback datasets.</span>
 
 [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://arxiv.org/abs/2110.04361)
 
