@@ -3,7 +3,7 @@
 
 The unofficial implementation of the paper. 
 
-**Note:** <span style="color:red">This repo includes codes and pre-processed data to reproduce the results for Adult Income and BlogFeedback datasets.</span>
+:fire: **NEW** :fire: This repo includes codes and pre-processed data to reproduce the results for Adult Income and BlogFeedback datasets in addition to MNIST implementation from the official Github repo.
 
 [SubTab: Subsetting Features of Tabular Data for Self-Supervised Representation Learning](https://arxiv.org/abs/2110.04361)
 
