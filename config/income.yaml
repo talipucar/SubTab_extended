@@ -37,8 +37,8 @@ aggregation: mean                 # options:  mean (default), sum, max, min, and
 # Noise-related options
 add_noise: true                   # If True, it adds noise. The noise type is defined in "noise_type"
 noise_type: gaussian_noise            # Type of noise to add to. Choices: swap_noise, gaussian_noise, zero_out
-masking_ratio: 0.2                # Percentage of the feature to add noise to
-noise_level: 0.3                  # Stdev defined for Gaussian noise
+masking_ratio: 0.3                # Percentage of the feature to add noise to
+noise_level: 0.15                  # Stdev defined for Gaussian noise
 
 # Data
 n_classes: 2                     # Number of classes in the data 
